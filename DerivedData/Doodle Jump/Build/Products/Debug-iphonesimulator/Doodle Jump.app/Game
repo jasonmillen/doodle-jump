@@ -1,0 +1,210 @@
+//
+//  Game.m
+//  Doodle Jump
+//
+//  Created by Jason Millen on 9/13/14.
+//  Copyright (c) 2014 Jason Millen. All rights reserved.
+//
+
+#import "Game.h"
+
+@interface Game ()
+
+@end
+
+@implementation Game
+
+-(void)Scoring {
+    
+    scoreNum += 1;
+    Score.text = [NSString stringWithFormat:@"%i", scoreNum];
+}
+
+-(void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
+    
+    ObjLeft = NO;
+    ObjRight = NO;
+    StopSideMovement = YES;
+}
+
+-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
+    
+    UITouch *touch = [touches anyObject];
+    CGPoint point = [touch locationInView:self.view];
+    
+    if(point.x < 160) {
+        ObjLeft = YES;
+    }
+    else {
+        ObjRight = YES;
+    }
+    
+}
+
+-(void)GameOver{
+    
+    [PlatMove invalidate];
+    [ObjMove invalidate];
+    
+    Play.hidden = YES;
+    Exit.hidden = NO;
+    
+}
+
+-(IBAction)Start:(id)sender {
+    
+    
+    Play.hidden = YES;
+    Platform1.hidden = NO;
+    //[self PlacePlatform1];
+    
+    scoreNum = 0;
+    
+    
+    ObjMove = [NSTimer scheduledTimerWithTimeInterval:0.05 target:self selector:@selector(ObjMoving) userInfo:nil repeats:YES];
+    
+    PlatMove = [NSTimer scheduledTimerWithTimeInterval:0.01 target:self selector:@selector(PlatformMoving) userInfo:nil repeats:YES];
+    
+}
+
+-(void)ObjMoving {
+    
+    Obj.center = CGPointMake(Obj.center.x + SideMovement, Obj.center.y - ObjHeight);
+    
+    ObjHeight = ObjHeight - 5;
+    
+    if(ObjHeight < -15)
+        ObjHeight = -15;
+    
+    if(Obj.center.x > 300)
+        Obj.center = CGPointMake(-25, Obj.center.y);
+    if(Obj.center.x < -25)
+        Obj.center = CGPointMake(300, Obj.center.y);
+    
+    if(ObjLeft == YES) {
+        SideMovement = SideMovement - 0.9;
+        if(SideMovement < -5) {
+            SideMovement = -5;
+        }
+    }
+    if(ObjRight == YES) {
+        SideMovement = SideMovement + 0.9;
+        if(SideMovement > 5) {
+            SideMovement = 5;
+        }
+    }
+    if(StopSideMovement == YES && SideMovement > 0) {
+        SideMovement = SideMovement - 0.5;
+        if(SideMovement < 0) {
+            SideMovement = 0;
+            StopSideMovement = NO;
+        }
+    }
+    if(StopSideMovement == YES && SideMovement < 0) {
+        SideMovement = SideMovement + 0.5;
+        if(SideMovement > 0) {
+            SideMovement = 0;
+            StopSideMovement = NO;
+        }
+    }
+    
+}
+
+-(void)PlacePlatform1 {
+    
+    Platform1.center = CGPointMake(arc4random() % 270 + 20, -45);
+}
+
+-(void)PlacePlatform2 {
+    
+    Platform2.center = CGPointMake(arc4random() % 270 + 20, -45);
+}
+
+-(void)PlacePlatform3 {
+    
+    Platform3.center = CGPointMake(arc4random() % 270 + 20, -45);
+}
+
+-(void)PlacePlatform4 {
+    
+    Platform4.center = CGPointMake(arc4random() % 270 + 20, -45);
+}
+
+-(void)PlacePlatform5 {
+    
+    Platform5.center = CGPointMake(arc4random() % 270 + 20, -45);
+}
+
+-(void)PlatformMoving {
+    
+    //if(ObjHeight > 0) {
+        Platform1.center = CGPointMake(Platform1.center.x, Platform1.center.y + 1);
+        Platform2.center = CGPointMake(Platform2.center.x, Platform2.center.y + 1);
+        Platform3.center = CGPointMake(Platform3.center.x, Platform3.center.y + 1);
+        Platform4.center = CGPointMake(Platform4.center.x, Platform4.center.y + 1);
+        Platform5.center = CGPointMake(Platform5.center.x, Platform5.center.y + 1);
+    //}
+    
+    if(Platform1.center.y > 570)
+        [self PlacePlatform1];
+    if(Platform2.center.y > 570)
+        [self PlacePlatform2];
+    if(Platform3.center.y > 570)
+        [self PlacePlatform3];
+    if(Platform4.center.y > 570)
+        [self PlacePlatform4];
+    if(Platform5.center.y > 570)
+        [self PlacePlatform5];
+        
+    
+    if(CGRectIntersectsRect(Obj.frame, Platform1.frame) && ObjHeight < -2) {
+        ObjHeight = 35;
+        [self Scoring];
+    }
+    
+    if(CGRectIntersectsRect(Obj.frame, Platform2.frame) && ObjHeight < -2) {
+        ObjHeight = 35;
+        [self Scoring];
+    }
+    if(CGRectIntersectsRect(Obj.frame, Platform3.frame) && ObjHeight < -2) {
+        ObjHeight = 35;
+        [self Scoring];
+    }
+    if(CGRectIntersectsRect(Obj.frame, Platform4.frame) && ObjHeight < -2) {
+        ObjHeight = 35;
+        [self Scoring];
+    }
+    if(CGRectIntersectsRect(Obj.frame, Platform5.frame) && ObjHeight < -2) {
+        ObjHeight = 35;
+        [self Scoring];
+    }
+    if(CGRectIntersectsRect(Obj.frame, Bottom.frame))
+        [self GameOver];
+    
+}
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
+{
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+        // Custom initialization
+    }
+    return self;
+}
+
+- (void)viewDidLoad
+{
+    //Platform1.hidden = YES;
+    Exit.hidden = YES;
+    
+    [super viewDidLoad];
+	// Do any additional setup after loading the view.
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+@end

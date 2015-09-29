@@ -21,6 +21,32 @@
 		6B59CB4219C521EC00F19B76 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B59CB2419C521EC00F19B76 /* UIKit.framework */; };
 		6B59CB4A19C521EC00F19B76 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6B59CB4819C521EC00F19B76 /* InfoPlist.strings */; };
 		6B59CB4C19C521EC00F19B76 /* Doodle_JumpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B59CB4B19C521EC00F19B76 /* Doodle_JumpTests.m */; };
+		6B59CB5719C522FA00F19B76 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B59CB5619C522FA00F19B76 /* Game.m */; };
+		6B6C076219CCA7EC00870812 /* Game in Resources */ = {isa = PBXBuildFile; fileRef = 6B6C076119CCA7EC00870812 /* Game */; };
+		6BE9DBED19D25806000F7941 /* snowy-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBEC19D25806000F7941 /* snowy-background.jpg */; };
+		6BE9DBEF19D25E82000F7941 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBEE19D25E82000F7941 /* images.png */; };
+		6BE9DBF119D4F37D000F7941 /* Block2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBF019D4F37D000F7941 /* Block2.png */; };
+		6BE9DBF319D4F388000F7941 /* Block.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBF219D4F388000F7941 /* Block.png */; };
+		6BE9DBF519D4F38D000F7941 /* BlockBreak.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBF419D4F38D000F7941 /* BlockBreak.png */; };
+		6BE9DBF719D4FC68000F7941 /* metal-spring-15234681.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6BE9DBF619D4FC68000F7941 /* metal-spring-15234681.jpg */; };
+		6BF1959319EB861D007D5C80 /* jetleft.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959119EB861D007D5C80 /* jetleft.png */; };
+		6BF1959419EB861D007D5C80 /* jetright.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959219EB861D007D5C80 /* jetright.png */; };
+		6BF1959619EB8622007D5C80 /* jetpack.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959519EB8622007D5C80 /* jetpack.png */; };
+		6BF1959B19F1A6DE007D5C80 /* squish.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959719F1A6DE007D5C80 /* squish.png */; };
+		6BF1959C19F1A6DE007D5C80 /* left.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959819F1A6DE007D5C80 /* left.png */; };
+		6BF1959D19F1A6DE007D5C80 /* squish2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959919F1A6DE007D5C80 /* squish2.png */; };
+		6BF1959E19F1A6DE007D5C80 /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF1959A19F1A6DE007D5C80 /* right.png */; };
+		6BF195A619F1AB3F007D5C80 /* spring.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195A519F1AB3F007D5C80 /* spring.png */; };
+		6BF195A819F1ADB9007D5C80 /* spring2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195A719F1ADB9007D5C80 /* spring2.png */; };
+		6BF195AA19F1ADBF007D5C80 /* spring3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195A919F1ADBF007D5C80 /* spring3.png */; };
+		6BF195AC19F1B48D007D5C80 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BF195AB19F1B48D007D5C80 /* AudioToolbox.framework */; };
+		6BF195AE19F1B4D4007D5C80 /* Bonk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195AD19F1B4D4007D5C80 /* Bonk.mp3 */; };
+		6BF195B019F2D4CD007D5C80 /* boing.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195AF19F2D4CD007D5C80 /* boing.wav */; };
+		6BF195B219F2D855007D5C80 /* bawong.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195B119F2D855007D5C80 /* bawong.wav */; };
+		6BF195B419F2DF3E007D5C80 /* PlatTouch.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195B319F2DF3E007D5C80 /* PlatTouch.wav */; };
+		6BF195B619F2E050007D5C80 /* PlatBreak.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195B519F2E050007D5C80 /* PlatBreak.wav */; };
+		6BF195B819F2E3F5007D5C80 /* jetpack.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195B719F2E3F5007D5C80 /* jetpack.wav */; };
+		6BF195BE19F376C1007D5C80 /* ClearPlat.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BF195BD19F376C1007D5C80 /* ClearPlat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +79,33 @@
 		6B59CB4719C521EC00F19B76 /* Doodle JumpTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Doodle JumpTests-Info.plist"; sourceTree = "<group>"; };
 		6B59CB4919C521EC00F19B76 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6B59CB4B19C521EC00F19B76 /* Doodle_JumpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Doodle_JumpTests.m; sourceTree = "<group>"; };
+		6B59CB5519C522FA00F19B76 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		6B59CB5619C522FA00F19B76 /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		6B6C076119CCA7EC00870812 /* Game */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Game; sourceTree = SOURCE_ROOT; };
+		6BE9DBEC19D25806000F7941 /* snowy-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "snowy-background.jpg"; sourceTree = "<group>"; };
+		6BE9DBEE19D25E82000F7941 /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
+		6BE9DBF019D4F37D000F7941 /* Block2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Block2.png; sourceTree = "<group>"; };
+		6BE9DBF219D4F388000F7941 /* Block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Block.png; sourceTree = "<group>"; };
+		6BE9DBF419D4F38D000F7941 /* BlockBreak.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlockBreak.png; sourceTree = "<group>"; };
+		6BE9DBF619D4FC68000F7941 /* metal-spring-15234681.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "metal-spring-15234681.jpg"; sourceTree = "<group>"; };
+		6BF1959119EB861D007D5C80 /* jetleft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jetleft.png; sourceTree = "<group>"; };
+		6BF1959219EB861D007D5C80 /* jetright.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jetright.png; sourceTree = "<group>"; };
+		6BF1959519EB8622007D5C80 /* jetpack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jetpack.png; sourceTree = "<group>"; };
+		6BF1959719F1A6DE007D5C80 /* squish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squish.png; sourceTree = "<group>"; };
+		6BF1959819F1A6DE007D5C80 /* left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left.png; sourceTree = "<group>"; };
+		6BF1959919F1A6DE007D5C80 /* squish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squish2.png; sourceTree = "<group>"; };
+		6BF1959A19F1A6DE007D5C80 /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		6BF195A519F1AB3F007D5C80 /* spring.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spring.png; sourceTree = "<group>"; };
+		6BF195A719F1ADB9007D5C80 /* spring2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spring2.png; sourceTree = "<group>"; };
+		6BF195A919F1ADBF007D5C80 /* spring3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spring3.png; sourceTree = "<group>"; };
+		6BF195AB19F1B48D007D5C80 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		6BF195AD19F1B4D4007D5C80 /* Bonk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bonk.mp3; sourceTree = "<group>"; };
+		6BF195AF19F2D4CD007D5C80 /* boing.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = boing.wav; sourceTree = "<group>"; };
+		6BF195B119F2D855007D5C80 /* bawong.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bawong.wav; sourceTree = "<group>"; };
+		6BF195B319F2DF3E007D5C80 /* PlatTouch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PlatTouch.wav; sourceTree = "<group>"; };
+		6BF195B519F2E050007D5C80 /* PlatBreak.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PlatBreak.wav; sourceTree = "<group>"; };
+		6BF195B719F2E3F5007D5C80 /* jetpack.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = jetpack.wav; sourceTree = "<group>"; };
+		6BF195BD19F376C1007D5C80 /* ClearPlat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ClearPlat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +113,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF195AC19F1B48D007D5C80 /* AudioToolbox.framework in Frameworks */,
 				6B59CB2319C521EC00F19B76 /* CoreGraphics.framework in Frameworks */,
 				6B59CB2519C521EC00F19B76 /* UIKit.framework in Frameworks */,
 				6B59CB2119C521EC00F19B76 /* Foundation.framework in Frameworks */,
@@ -101,6 +155,7 @@
 		6B59CB1F19C521EC00F19B76 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6BF195AB19F1B48D007D5C80 /* AudioToolbox.framework */,
 				6B59CB2019C521EC00F19B76 /* Foundation.framework */,
 				6B59CB2219C521EC00F19B76 /* CoreGraphics.framework */,
 				6B59CB2419C521EC00F19B76 /* UIKit.framework */,
@@ -115,6 +170,9 @@
 				6B59CB2F19C521EC00F19B76 /* AppDelegate.h */,
 				6B59CB3019C521EC00F19B76 /* AppDelegate.m */,
 				6B59CB3219C521EC00F19B76 /* Main.storyboard */,
+				6B59CB5519C522FA00F19B76 /* Game.h */,
+				6B59CB5619C522FA00F19B76 /* Game.m */,
+				6B6C076119CCA7EC00870812 /* Game */,
 				6B59CB3519C521EC00F19B76 /* ViewController.h */,
 				6B59CB3619C521EC00F19B76 /* ViewController.m */,
 				6B59CB3819C521EC00F19B76 /* Images.xcassets */,
@@ -126,6 +184,29 @@
 		6B59CB2719C521EC00F19B76 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6BF195BD19F376C1007D5C80 /* ClearPlat.png */,
+				6BF195B719F2E3F5007D5C80 /* jetpack.wav */,
+				6BF195B519F2E050007D5C80 /* PlatBreak.wav */,
+				6BF195B319F2DF3E007D5C80 /* PlatTouch.wav */,
+				6BF195B119F2D855007D5C80 /* bawong.wav */,
+				6BF195AF19F2D4CD007D5C80 /* boing.wav */,
+				6BF195AD19F1B4D4007D5C80 /* Bonk.mp3 */,
+				6BF195A919F1ADBF007D5C80 /* spring3.png */,
+				6BF195A719F1ADB9007D5C80 /* spring2.png */,
+				6BF195A519F1AB3F007D5C80 /* spring.png */,
+				6BF1959719F1A6DE007D5C80 /* squish.png */,
+				6BF1959819F1A6DE007D5C80 /* left.png */,
+				6BF1959919F1A6DE007D5C80 /* squish2.png */,
+				6BF1959A19F1A6DE007D5C80 /* right.png */,
+				6BF1959519EB8622007D5C80 /* jetpack.png */,
+				6BF1959119EB861D007D5C80 /* jetleft.png */,
+				6BF1959219EB861D007D5C80 /* jetright.png */,
+				6BE9DBF619D4FC68000F7941 /* metal-spring-15234681.jpg */,
+				6BE9DBF419D4F38D000F7941 /* BlockBreak.png */,
+				6BE9DBF219D4F388000F7941 /* Block.png */,
+				6BE9DBF019D4F37D000F7941 /* Block2.png */,
+				6BE9DBEE19D25E82000F7941 /* images.png */,
+				6BE9DBEC19D25806000F7941 /* snowy-background.jpg */,
 				6B59CB2819C521EC00F19B76 /* Doodle Jump-Info.plist */,
 				6B59CB2919C521EC00F19B76 /* InfoPlist.strings */,
 				6B59CB2C19C521EC00F19B76 /* main.m */,
@@ -228,9 +309,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF195AA19F1ADBF007D5C80 /* spring3.png in Resources */,
+				6BF1959419EB861D007D5C80 /* jetright.png in Resources */,
+				6BF195B019F2D4CD007D5C80 /* boing.wav in Resources */,
+				6B6C076219CCA7EC00870812 /* Game in Resources */,
+				6BF195AE19F1B4D4007D5C80 /* Bonk.mp3 in Resources */,
+				6BE9DBF319D4F388000F7941 /* Block.png in Resources */,
+				6BE9DBED19D25806000F7941 /* snowy-background.jpg in Resources */,
+				6BE9DBEF19D25E82000F7941 /* images.png in Resources */,
+				6BE9DBF119D4F37D000F7941 /* Block2.png in Resources */,
+				6BF195A819F1ADB9007D5C80 /* spring2.png in Resources */,
+				6BF1959B19F1A6DE007D5C80 /* squish.png in Resources */,
 				6B59CB3919C521EC00F19B76 /* Images.xcassets in Resources */,
+				6BE9DBF519D4F38D000F7941 /* BlockBreak.png in Resources */,
+				6BF195B419F2DF3E007D5C80 /* PlatTouch.wav in Resources */,
+				6BF195BE19F376C1007D5C80 /* ClearPlat.png in Resources */,
 				6B59CB2B19C521EC00F19B76 /* InfoPlist.strings in Resources */,
+				6BE9DBF719D4FC68000F7941 /* metal-spring-15234681.jpg in Resources */,
+				6BF1959C19F1A6DE007D5C80 /* left.png in Resources */,
+				6BF195A619F1AB3F007D5C80 /* spring.png in Resources */,
+				6BF1959319EB861D007D5C80 /* jetleft.png in Resources */,
+				6BF195B219F2D855007D5C80 /* bawong.wav in Resources */,
+				6BF1959D19F1A6DE007D5C80 /* squish2.png in Resources */,
+				6BF1959E19F1A6DE007D5C80 /* right.png in Resources */,
+				6BF195B619F2E050007D5C80 /* PlatBreak.wav in Resources */,
+				6BF195B819F2E3F5007D5C80 /* jetpack.wav in Resources */,
 				6B59CB3419C521EC00F19B76 /* Main.storyboard in Resources */,
+				6BF1959619EB8622007D5C80 /* jetpack.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +357,7 @@
 				6B59CB3719C521EC00F19B76 /* ViewController.m in Sources */,
 				6B59CB3119C521EC00F19B76 /* AppDelegate.m in Sources */,
 				6B59CB2D19C521EC00F19B76 /* main.m in Sources */,
+				6B59CB5719C522FA00F19B76 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +566,7 @@
 				6B59CB5119C521EC00F19B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B59CB5219C521EC00F19B76 /* Build configuration list for PBXNativeTarget "Doodle JumpTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +575,7 @@
 				6B59CB5419C521EC00F19B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

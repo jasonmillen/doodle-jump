@@ -1,0 +1,1722 @@
+TDoodle Jump
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i386
+cCpResource Doodle\ Jump/spring3.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring3.png
+cCpResource Doodle\ Jump/jetright.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetright.png
+cCpResource Doodle\ Jump/boing.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/boing.wav
+cCpResource Game DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Game
+cCpResource Doodle\ Jump/Bonk.mp3 DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Bonk.mp3
+cCpResource Doodle\ Jump/Block.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block.png
+cCpResource Doodle\ Jump/snowy-background.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/snowy-background.jpg
+cCpResource Doodle\ Jump/images.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/images.png
+cCpResource Doodle\ Jump/Block2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block2.png
+cCpResource Doodle\ Jump/spring2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring2.png
+cCpResource Doodle\ Jump/squish.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish.png
+cCpResource Doodle\ Jump/BlockBreak.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/BlockBreak.png
+cCpResource Doodle\ Jump/PlatTouch.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatTouch.wav
+cCpResource Doodle\ Jump/ClearPlat.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/ClearPlat.png
+cCopyStringsFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj/InfoPlist.strings Doodle\ Jump/en.lproj/InfoPlist.strings
+cCpResource Doodle\ Jump/metal-spring-15234681.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/metal-spring-15234681.jpg
+cCpResource Doodle\ Jump/left.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/left.png
+cCpResource Doodle\ Jump/spring.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring.png
+cCpResource Doodle\ Jump/jetleft.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetleft.png
+cCpResource Doodle\ Jump/bawong.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/bawong.wav
+cCpResource Doodle\ Jump/squish2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish2.png
+cCpResource Doodle\ Jump/right.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/right.png
+cCpResource Doodle\ Jump/PlatBreak.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatBreak.wav
+cCpResource Doodle\ Jump/jetpack.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.wav
+cCompileStoryboard /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Base.lproj/Main.storyboard
+cCpResource Doodle\ Jump/jetpack.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.png
+cCompileAssetCatalog /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Images.xcassets
+cProcessInfoPlistFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Info.plist
+cGenerateDSYMFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump
+cTouch /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052CF560F00000000000003B5
+t1389319695
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052CF561800000000000001A0
+t1389319704
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052CF561B00000000009040F0
+t1389319707
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052CF561B00000000005838D0
+t1389319707
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000052CF561A00000000000FA140
+t1389319706
+s1024320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052CF561B00000000005B82A0
+t1389319707
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052CF561B0000000000445870
+t1389319707
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052CF561C0000000000355050
+t1389319708
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c0000000052CF561B00000000000CF030
+t1389319707
+s847920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052CF561C00000000002F6810
+t1389319708
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052CF561C000000000004B000
+t1389319708
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052CF561E000000000088C680
+t1389319710
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052CF561E0000000000037620
+t1389319710
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052CF561F00000000004848F0
+t1389319711
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052CF561F00000000001290B0
+t1389319711
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052CF56240000000001DB9910
+t1389319716
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052CF562E00000000002B9F20
+t1389319726
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052CF56360000000000002338
+t1389319734
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052CF5637000000000008D300
+t1389319735
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052CF5637000000000038ACB0
+t1389319735
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000051A3495400000000000121D0
+t1369655636
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052CF56370000000000013500
+t1389319735
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052CF56370000000000033BA0
+t1389319735
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052CF5637000000000001CFB0
+t1389319735
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052CF5637000000000001B2B0
+t1389319735
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052CF563700000000000632B0
+t1389319735
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052CF56370000000000008880
+t1389319735
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052CF56370000000000015080
+t1389319735
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052CF563700000000000230E0
+t1389319735
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052CF5637000000000000E380
+t1389319735
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052CF56370000000000087200
+t1389319735
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052CF563700000000000171A0
+t1389319735
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052CF56370000000000039C10
+t1389319735
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052CF5637000000000000B0B0
+t1389319735
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052CF56370000000000167FE0
+t1389319735
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052CF563700000000000106A0
+t1389319735
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052CF5637000000000001CE40
+t1389319735
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052CF56370000000000071040
+t1389319735
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052CF56370000000000067A10
+t1389319735
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052CF5637000000000001BAD0
+t1389319735
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052CF56370000000000088BA0
+t1389319735
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052CF564C0000000000000AC9
+t1389319756
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052CF564C0000000000005004
+t1389319756
+s20484
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+t1413651947
+s65252
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Doodle Jump.LinkFileList
+c0000000054429DE900000000000002C5
+t1413651945
+s709
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+t1413731860
+s115024
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+t1413651947
+s41032
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+t1413651947
+s3672
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_dependencies.txt
+t1410662017
+s462
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_generated_info.plist
+t1410662017
+s525
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/PrecompiledHeaders/Doodle Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle Jump-Prefix.pch.pch
+t1413651947
+s108484
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app
+t1413731860
+s1190
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM
+t1413731860
+s102
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Base.lproj/Main.storyboardc
+t1413694085
+s238
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block.png
+t1411694021
+s7416
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block2.png
+t1411694021
+s7476
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/BlockBreak.png
+t1411694021
+s11050
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Bonk.mp3
+t1413578962
+s33594
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/ClearPlat.png
+t1413694083
+s6873
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+t1413731860
+s62100
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Game
+t1411154492
+s4950
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Info.plist
+t1410662018
+s1012
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PkgInfo
+t1410662018
+s8
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatBreak.wav
+t1413654803
+s71724
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatTouch.wav
+t1413654491
+s22572
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/bawong.wav
+t1413652859
+s133164
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/boing.wav
+t1413651948
+s102444
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/en.lproj/InfoPlist.strings
+t1410662016
+s42
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/images.png
+t1411524665
+s6549
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetleft.png
+t1413173518
+s7255
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.png
+t1413173518
+s6918
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.wav
+t1413655755
+s794668
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetright.png
+t1413173518
+s7249
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/left.png
+t1413574501
+s7847
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/metal-spring-15234681.jpg
+t1411696470
+s21041
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/right.png
+t1413574501
+s7807
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/snowy-background.jpg
+t1411522814
+s332783
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring.png
+t1413575617
+s6995
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring2.png
+t1413576338
+s6967
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring3.png
+t1413576338
+s6955
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish.png
+t1413574501
+s7233
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish2.png
+t1413574501
+s7485
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.h
+c000000005414EA6C000000000000011B
+t1410656876
+s283
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.m
+c000000005414EA6C00000000000007DD
+t1410656876
+s2013
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Base.lproj/Main.storyboard
+c00000000544342830000000000004F92
+t1413694083
+s20370
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Block.png
+c000000005424BB7A0000000000001CF8
+t1411693434
+s7416
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Block2.png
+c000000005424BB6E0000000000001D34
+t1411693422
+s7476
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/BlockBreak.png
+c000000005424BB830000000000002B2A
+t1411693443
+s11050
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Bonk.mp3
+c0000000054417CA1000000000000833A
+t1413577889
+s33594
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ClearPlat.png
+c0000000054433EDC0000000000001AD9
+t1413693148
+s6873
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Doodle Jump-Info.plist
+c000000005414EA6C00000000000004BE
+t1410656876
+s1214
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Doodle Jump-Prefix.pch
+c000000005414EA6C0000000000000158
+t1410656876
+s344
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Images.xcassets
+c000000005414EA6C0000000000000088
+t1410656876
+s136
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/PlatBreak.wav
+c000000005442A8C5000000000001182C
+t1413654725
+s71724
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/PlatTouch.wav
+c000000005442A7A6000000000000582C
+t1413654438
+s22572
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.h
+c00000000544180D000000000000000DE
+t1413578960
+s222
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.m
+c00000000544180D000000000000001F8
+t1413578960
+s504
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/bawong.wav
+c000000005442A0B7000000000002082C
+t1413652663
+s133164
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/boing.wav
+c0000000054429D1D000000000001902C
+t1413651741
+s102444
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/en.lproj/InfoPlist.strings
+c000000005414EA6C000000000000002D
+t1410656876
+s45
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/images.png
+c000000005422264E0000000000001995
+t1411524174
+s6549
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/jetleft.png
+c00000000543B4E510000000000001C57
+t1413172817
+s7255
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/jetpack.png
+c00000000543B4E590000000000001B06
+t1413172825
+s6918
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/jetpack.wav
+c000000005442AC6D00000000000C202C
+t1413655661
+s794668
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/jetright.png
+c00000000543B4E480000000000001C51
+t1413172808
+s7249
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/left.png
+c0000000054416E9B0000000000001EA7
+t1413574299
+s7847
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/main.m
+c000000005414EA6C0000000000000157
+t1410656876
+s343
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/metal-spring-15234681.jpg
+c000000005424C4CC0000000000005231
+t1411695820
+s21041
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/right.png
+c0000000054416E950000000000001E7F
+t1413574293
+s7807
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/snowy-background.jpg
+c000000005422206600000000000513EF
+t1411522662
+s332783
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/spring.png
+c00000000544173940000000000001B53
+t1413575572
+s6995
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/spring2.png
+c00000000544176130000000000001B37
+t1413576211
+s6967
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/spring3.png
+c000000005441761A0000000000001B2B
+t1413576218
+s6955
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/squish.png
+c0000000054416EFA0000000000001C41
+t1413574394
+s7233
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/squish2.png
+c0000000054416F1A0000000000001D3D
+t1413574426
+s7485
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game
+c00000000541C706C0000000000001356
+t1411149932
+s4950
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.h
+c00000000544342820000000000000774
+t1413694082
+s1908
+
+N/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.m
+c000000005443D6130000000000004008
+t1413731859
+s16392
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+t1410662016
+s65236
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Doodle Jump.LinkFileList
+c000000005414FE7F00000000000002B1
+t1410662015
+s689
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+t1413579055
+s106708
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+t1413578961
+s41016
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+t1410662016
+s3660
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_dependencies.txt
+t1410662017
+s462
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_generated_info.plist
+t1410662017
+s525
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/PrecompiledHeaders/Doodle Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle Jump-Prefix.pch.pch
+t1410662016
+s108324
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app
+t1413579055
+s986
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM
+t1413579055
+s102
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Base.lproj/Main.storyboardc
+t1413578963
+s238
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block.png
+t1411694021
+s7416
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block2.png
+t1411694021
+s7476
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/BlockBreak.png
+t1411694021
+s11050
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Bonk.mp3
+t1413578962
+s33594
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Brick.png
+t1410662016
+s161268
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+t1413579055
+s53188
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Game
+t1411154492
+s4950
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Info.plist
+t1410662018
+s1012
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PkgInfo
+t1410662018
+s8
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/doodle.png
+t1410662016
+s62696
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/en.lproj/InfoPlist.strings
+t1410662016
+s42
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/images.png
+t1411524665
+s6549
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetleft.png
+t1413173518
+s7255
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.png
+t1413173518
+s6918
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetright.png
+t1413173518
+s7249
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/left.png
+t1413574501
+s7847
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/metal-spring-15234681.jpg
+t1411696470
+s21041
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/right.png
+t1413574501
+s7807
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/snowy-background.jpg
+t1411522814
+s332783
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring.png
+t1413575617
+s6995
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring2.png
+t1413576338
+s6967
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring3.png
+t1413576338
+s6955
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish.png
+t1413574501
+s7233
+
+N/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish2.png
+t1413574501
+s7485
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.h
+c000000005414EA6C000000000000011B
+t1410656876
+s283
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.m
+c000000005414EA6C00000000000007DD
+t1410656876
+s2013
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Base.lproj/Main.storyboard
+c00000000544180D00000000000004AA7
+t1413578960
+s19111
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Block.png
+c000000005424BB7A0000000000001CF8
+t1411693434
+s7416
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Block2.png
+c000000005424BB6E0000000000001D34
+t1411693422
+s7476
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/BlockBreak.png
+c000000005424BB830000000000002B2A
+t1411693443
+s11050
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Bonk.mp3
+c0000000054417CA1000000000000833A
+t1413577889
+s33594
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Brick.png
+c000000005414F6FC00000000000275F4
+t1410660092
+s161268
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Doodle Jump-Info.plist
+c000000005414EA6C00000000000004BE
+t1410656876
+s1214
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Doodle Jump-Prefix.pch
+c000000005414EA6C0000000000000158
+t1410656876
+s344
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Images.xcassets
+c000000005414EA6C0000000000000088
+t1410656876
+s136
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.h
+c00000000544180D000000000000000DE
+t1413578960
+s222
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.m
+c00000000544180D000000000000001F8
+t1413578960
+s504
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/doodle.png
+c000000005414F58B000000000000F4E8
+t1410659723
+s62696
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/en.lproj/InfoPlist.strings
+c000000005414EA6C000000000000002D
+t1410656876
+s45
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/images.png
+c000000005422264E0000000000001995
+t1411524174
+s6549
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/jetleft.png
+c00000000543B4E510000000000001C57
+t1413172817
+s7255
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/jetpack.png
+c00000000543B4E590000000000001B06
+t1413172825
+s6918
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/jetright.png
+c00000000543B4E480000000000001C51
+t1413172808
+s7249
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/left.png
+c0000000054416E9B0000000000001EA7
+t1413574299
+s7847
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/main.m
+c000000005414EA6C0000000000000157
+t1410656876
+s343
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/metal-spring-15234681.jpg
+c000000005424C4CC0000000000005231
+t1411695820
+s21041
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/right.png
+c0000000054416E950000000000001E7F
+t1413574293
+s7807
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/snowy-background.jpg
+c000000005422206600000000000513EF
+t1411522662
+s332783
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/spring.png
+c00000000544173940000000000001B53
+t1413575572
+s6995
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/spring2.png
+c00000000544176130000000000001B37
+t1413576211
+s6967
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/spring3.png
+c000000005441761A0000000000001B2B
+t1413576218
+s6955
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/squish.png
+c0000000054416EFA0000000000001C41
+t1413574394
+s7233
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/squish2.png
+c0000000054416F1A0000000000001D3D
+t1413574426
+s7485
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Game
+c00000000541C706C0000000000001356
+t1411149932
+s4950
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Game.h
+c00000000544180D000000000000006A5
+t1413578960
+s1701
+
+N/Users/JasonMillen/Desktop/Doodle Jump/Game.m
+c000000005441812F0000000000003811
+t1413579055
+s14353
+
+N/usr/lib/libSystem.B.dylib
+c0000000051A34948000000000000D2A0
+t1369655624
+s53920
+
+N/usr/lib/system/libcache.dylib
+c0000000051A349540000000000013870
+t1369655636
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000051A3493D0000000000030250
+t1369655613
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000051A349480000000000017910
+t1369655624
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000051A34953000000000001A130
+t1369655635
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000051A34953000000000000C2A0
+t1369655635
+s49824
+
+N/usr/lib/system/libdyld.dylib
+c0000000051A3495400000000000121D0
+t1369655636
+s74192
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000051A349540000000000008CE0
+t1369655636
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000051A34954000000000001D350
+t1369655636
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c0000000051A349530000000000014F90
+t1369655635
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051A34955000000000000D790
+t1369655637
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000051A34955000000000000C330
+t1369655637
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000051A34954000000000000A080
+t1369655636
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000051A3494800000000001FD120
+t1369655624
+s2085152
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051A34954000000000001BC00
+t1369655636
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000051A34948000000000008B580
+t1369655624
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000051A3494800000000000569B0
+t1369655624
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000051A349480000000000070540
+t1369655624
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000051A349480000000000025620
+t1369655624
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051A3494E000000000000C780
+t1369655630
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000051A3494F000000000000D430
+t1369655631
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000051A34954000000000001BAA0
+t1369655636
+s113312
+
+CBuild AST from /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/AppDelegate.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/ViewController.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/main.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Game.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/AppDelegate.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/ViewController.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/main.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Doodle\ Jump/Game.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies755875363f28ba41^3f1e8e363f28ba41^---0#1#1#--18"Check dependencies36"27A97A2E-FBCA-4068-9A80-08474D73F0F4-
+
+CCompileAssetCatalog /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Images.xcassets
+r0
+
+CCompileAssetCatalog /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Images.xcassets
+s432354816.449921
+e432354817.410091
+r1
+xCompileAssetCatalog
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Images.xcassets
+o2014-09-13 22:33:37.312 IBCocoaTouchImageCatalogTool[13983:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/LaunchImage-700-568h@2x.png
+o/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Assets.car
+o/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app Doodle\ Jump/Images.xcassets127"CompileAssetCatalog DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app Doodle\ Jump/Images.xcassetsd653730036c5b941^a4fc680136c5b941^-720"2014-09-13 22:33:37.312 IBCocoaTouchImageCatalogTool[13983:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/LaunchImage-700-568h@2x.png/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Assets.car/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/Images.xcassets/0000000000000000^1284"CompileAssetCatalog DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app Doodle\ Jump/Images.xcassets    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Images.xcassets36"DBC6859C-4A1B-4F22-96FB-B60D6F98D9D2-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435344747.328608
+e435344747.638285
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.m
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.m242"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0360546bd5f2b941^3e7aa36bd5f2b941^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Doodle%20Jump/AppDelegate.m0000000000000000^4197"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.dia -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/AppDelegate.m -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o36"AED0EF3F-1762-4C54-B505-625F895BC1BF-
+b7B9D36A4-DFA4-476D-B6EA-EE315B6FFE65
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432354816.246414
+e432354816.338841
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.m
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.m242"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler79593f0036c5b941^babf560036c5b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/AppDelegate.m0000000000000000^4122"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o Doodle\ Jump/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.dia -c /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/AppDelegate.m -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/AppDelegate.o36"F0650964-4BCA-4D40-86B6-E4C9AAEB12A9-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435424659.062951
+e435424660.275080
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.m
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/JasonMillen/Desktop/Apps/Doodle Jump/Game.m215"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera6ef11930df4b941^b16c46940df4b941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Game.m0000000000000000^4129"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.d --serialize-diagnostics /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.dia -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Game.m -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o36"B1C585EE-253C-412D-BB10-5BB5A6D37490-
+b007876C5-9702-4612-A6B4-B1AB813AF521
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o /Users/JasonMillen/Desktop/Doodle\ Jump/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435271855.151403
+e435271855.279253
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+x/Users/JasonMillen/Desktop/Doodle Jump/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Doodle Jump/Game.m
+d/Users/JasonMillen/Desktop/Doodle Jump/Game.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/JasonMillen/Desktop/Doodle Jump/Game.m215"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler54e226afb8f1b941^c87d47afb8f1b941^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Game.m0000000000000000^4054"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.d --serialize-diagnostics /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.dia -c /Users/JasonMillen/Desktop/Doodle\ Jump/Game.m -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Game.o36"C0783675-5EDF-40C7-895C-A141CC2FE580-
+bE0DE531A-7AD2-4EBE-9D47-D8D1B738A90D
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435344747.328561
+e435344747.638210
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.m
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/ViewController.m248"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e47546bd5f2b941^4375a36bd5f2b941^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Doodle%20Jump/ViewController.m0000000000000000^4215"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.dia -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/ViewController.m -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o36"CBBBA86D-D6E6-44FE-B6BC-E2A3A21ACBA8-
+b7B9D36A4-DFA4-476D-B6EA-EE315B6FFE65
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435271760.922344
+e435271761.711973
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.m
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/ViewController.m248"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercd73ec50b8f1b941^fe43b651b8f1b941^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/ViewController.m0000000000000000^4140"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o Doodle\ Jump/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.dia -c /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/ViewController.m -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/ViewController.o36"3C9EAF25-B301-4416-9C3D-E7D988056D88-
+bC3FCAB93-A0EA-4337-BA5A-975A98289A93
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435344747.329317
+e435344747.638862
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/main.m
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/main.m228"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9279546bd5f2b941^0d8da36bd5f2b941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Doodle%20Jump/main.m0000000000000000^4155"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.dia -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/main.m -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o36"88973C68-763C-4D9C-A2A6-C5B0424B4FEE-
+b7B9D36A4-DFA4-476D-B6EA-EE315B6FFE65
+
+CCompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432354816.246742
+e432354816.298108
+r1
+xCompileC
+xDerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/main.m
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/main.m228"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a5c3f0036c5b941^44514c0036c5b941^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/main.m0000000000000000^4080"CompileC DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o Doodle\ Jump/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.dia -c /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/main.m -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/main.o36"01368BB3-B547-4FC8-8569-11F776786BC1-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCompileStoryboard /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Base.lproj/Main.storyboard
+s435386883.273451
+e435386885.044078
+r1
+xCompileStoryboard
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Base.lproj/Main.storyboard
+o2014-10-19 00:48:04.133 Interface Builder Cocoa Touch Tool[70801:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-10-19 00:48:04.813 Interface Builder Cocoa Touch Tool[70804:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboard57"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboarde01446037af3b941^17490b057af3b941^-472"2014-10-19 00:48:04.133 Interface Builder Cocoa Touch Tool[70801:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-10-19 00:48:04.813 Interface Builder Cocoa Touch Tool[70804:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Doodle%20Jump/Base.lproj/Main.storyboard0000000000000000^898"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboard    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Base.lproj/Main.storyboardc /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Base.lproj/Main.storyboard36"6B070718-E0BE-47BC-A629-EA12BCBACA3D-
+b297D73CF-C4FA-4426-AC31-D8064E706BE2
+
+CCompileStoryboard /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Base.lproj/Main.storyboard
+s435271762.195238
+e435271763.097085
+r1
+xCompileStoryboard
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Base.lproj/Main.storyboard
+o2014-10-17 16:49:22.876 Interface Builder Cocoa Touch Tool[67510:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboard57"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboard1c263252b8f1b941^d7d91853b8f1b941^-236"2014-10-17 16:49:22.876 Interface Builder Cocoa Touch Tool[67510:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/Base.lproj/Main.storyboard0000000000000000^883"CompileStoryboard Doodle\ Jump/Base.lproj/Main.storyboard    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Base.lproj/Main.storyboardc /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Base.lproj/Main.storyboard36"D2D3FB35-DBC3-45DF-A367-DA1A539949F5-
+bC3FCAB93-A0EA-4337-BA5A-975A98289A93
+
+CCopyStringsFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj/InfoPlist.strings Doodle\ Jump/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj/InfoPlist.strings Doodle\ Jump/en.lproj/InfoPlist.strings
+s432354816.442674
+e432354816.449069
+r1
+xCopyStringsFile
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/en.lproj/InfoPlist.strings
+xDoodle Jump/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Doodle Jump/en.lproj/InfoPlist.strings161"CopyStringsFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj/InfoPlist.strings Doodle\ Jump/en.lproj/InfoPlist.strings048d710036c5b941^6501730036c5b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/en.lproj/InfoPlist.strings0000000000000000^666"CopyStringsFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj/InfoPlist.strings Doodle\ Jump/en.lproj/InfoPlist.strings    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/en.lproj -- Doodle\ Jump/en.lproj/InfoPlist.strings36"F78E2357-E8E7-440F-9A90-3F9F63E8C75E-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCpResource Doodle\ Jump/Block.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block.png
+s433386821.677901
+e433386821.694971
+r1
+xCpResource
+xDoodle Jump/Block.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block.png122"CpResource Doodle\ Jump/Block.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block.png09c2ad45f5d4b941^bceab145f5d4b941^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/Block.png0038a0f9ddffdf42^660"CpResource Doodle\ Jump/Block.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Block.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"94C51EBA-BCE5-434C-9654-5E836C10491C-
+b3936F956-B8AC-46E8-8DA1-BF9189B5DAAC
+
+CCpResource Doodle\ Jump/Block2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block2.png
+s433386821.678977
+e433386821.695248
+r1
+xCpResource
+xDoodle Jump/Block2.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Block2.png124"CpResource Doodle\ Jump/Block2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block2.png92e8ad45f5d4b941^3b00b245f5d4b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/Block2.png0038a0f9ddffdf42^663"CpResource Doodle\ Jump/Block2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Block2.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Block2.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"FAA6B069-70B0-4A2D-9E2E-5EFFE708A54C-
+b3936F956-B8AC-46E8-8DA1-BF9189B5DAAC
+
+CCpResource Doodle\ Jump/BlockBreak.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/BlockBreak.png
+s433386821.679204
+e433386821.695198
+r1
+xCpResource
+xDoodle Jump/BlockBreak.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/BlockBreak.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/BlockBreak.png132"CpResource Doodle\ Jump/BlockBreak.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/BlockBreak.png77f6ad45f5d4b941^1efbb145f5d4b941^---0#0#1#-19%DVTDocumentLocation2@152"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/BlockBreak.png0038a0f9ddffdf42^675"CpResource Doodle\ Jump/BlockBreak.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/BlockBreak.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/BlockBreak.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"BFBB3DB2-F504-4C5F-B6A6-7E14B44A8863-
+b3936F956-B8AC-46E8-8DA1-BF9189B5DAAC
+
+CCpResource Doodle\ Jump/Bonk.mp3 DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Bonk.mp3
+s435271762.192433
+e435271762.197642
+r1
+xCpResource
+xDoodle Jump/Bonk.mp3
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Bonk.mp3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Bonk.mp3120"CpResource Doodle\ Jump/Bonk.mp3 DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Bonk.mp338663152b8f1b941^85993252b8f1b941^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/Bonk.mp30038a0f9ddffdf42^657"CpResource Doodle\ Jump/Bonk.mp3 DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Bonk.mp3    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Bonk.mp3 /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"C752B742-D8A3-41AB-8950-85713A3E6CA0-
+bC3FCAB93-A0EA-4337-BA5A-975A98289A93
+
+CCpResource Doodle\ Jump/Brick.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Brick.png
+s432354816.442457
+e432354816.449053
+r1
+xCpResource
+xDoodle Jump/Brick.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Brick.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Brick.png122"CpResource Doodle\ Jump/Brick.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Brick.pngd388710036c5b941^77f5720036c5b941^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/Brick.png0038a0f9ddffdf42^660"CpResource Doodle\ Jump/Brick.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Brick.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Brick.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"9E9E714D-9EDB-46D1-859F-A3B85C15317B-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCpResource Doodle\ Jump/Cartoon\ Bonk\ Sound\ Effect.mp3 DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Cartoon\ Bonk\ Sound\ Effect.mp3
+r0
+
+CCpResource Doodle\ Jump/ClearPlat.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/ClearPlat.png
+s435386883.271317
+e435386883.276202
+r1
+xCpResource
+xDoodle Jump/ClearPlat.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/ClearPlat.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/ClearPlat.png130"CpResource Doodle\ Jump/ClearPlat.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/ClearPlat.pnga5a245037af3b941^24b746037af3b941^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/ClearPlat.png0038a0f9ddffdf42^687"CpResource Doodle\ Jump/ClearPlat.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/ClearPlat.png    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/ClearPlat.png /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"F6B8578E-D324-4CAC-AAC6-82EFA4992B0B-
+b297D73CF-C4FA-4426-AC31-D8064E706BE2
+
+CCpResource Doodle\ Jump/PlatBreak.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatBreak.wav
+s435347603.136925
+e435347603.140078
+r1
+xCpResource
+xDoodle Jump/PlatBreak.wav
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatBreak.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatBreak.wav130"CpResource Doodle\ Jump/PlatBreak.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatBreak.wav35272393e0f2b941^12dd2393e0f2b941^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/PlatBreak.wav0038a0f9ddffdf42^687"CpResource Doodle\ Jump/PlatBreak.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatBreak.wav    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/PlatBreak.wav /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"4C16C8D2-E561-4908-999B-41E3DE6D5720-
+bCCB2CF37-4B87-4568-8C9D-E5475C545CC1
+
+CCpResource Doodle\ Jump/PlatTouch.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatTouch.wav
+s435347291.539921
+e435347291.542457
+r1
+xCpResource
+xDoodle Jump/PlatTouch.wav
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatTouch.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/PlatTouch.wav130"CpResource Doodle\ Jump/PlatTouch.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatTouch.wav874f8a5bdff2b941^a0e08a5bdff2b941^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/PlatTouch.wav0038a0f9ddffdf42^687"CpResource Doodle\ Jump/PlatTouch.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PlatTouch.wav    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/PlatTouch.wav /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"855674F9-585E-4698-A4DE-12FC611D147E-
+bDFA0A7CC-154A-4DD8-831F-DAAD0C4E4886
+
+CCpResource Doodle\ Jump/bawong.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/bawong.wav
+s435345659.874847
+e435345659.879059
+r1
+xCpResource
+xDoodle Jump/bawong.wav
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/bawong.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/bawong.wav124"CpResource Doodle\ Jump/bawong.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/bawong.wav3108e0fbd8f2b941^1c0ce1fbd8f2b941^---0#0#1#-19%DVTDocumentLocation2@153"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/bawong.wav0038a0f9ddffdf42^678"CpResource Doodle\ Jump/bawong.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/bawong.wav    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/bawong.wav /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"69820812-CFAB-4EEC-A013-0FB253D8FC46-
+bB262ED7F-F5FC-4A52-9F21-593BFC3E199A
+
+CCpResource Doodle\ Jump/boing.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/boing.wav
+s435344748.132978
+e435344748.136797
+r1
+xCpResource
+xDoodle Jump/boing.wav
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/boing.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/boing.wav122"CpResource Doodle\ Jump/boing.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/boing.wavd34d226cd5f2b941^c406236cd5f2b941^---0#0#1#-19%DVTDocumentLocation2@152"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/boing.wav0038a0f9ddffdf42^675"CpResource Doodle\ Jump/boing.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/boing.wav    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/boing.wav /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"A264AEEC-9618-4379-898C-0F469363AC8F-
+b7B9D36A4-DFA4-476D-B6EA-EE315B6FFE65
+
+CCpResource Doodle\ Jump/doodle.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/doodle.png
+s432354816.442412
+e432354816.448429
+r1
+xCpResource
+xDoodle Jump/doodle.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/doodle.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/doodle.png124"CpResource Doodle\ Jump/doodle.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/doodle.pngfc8a710036c5b941^a1d8720036c5b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/doodle.png0038a0f9ddffdf42^663"CpResource Doodle\ Jump/doodle.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/doodle.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/doodle.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"98DD7E40-7F09-401A-8F95-BFCA382686DD-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CCpResource Doodle\ Jump/images.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/images.png
+s433217465.454086
+e433217465.458506
+r1
+xCpResource
+xDoodle Jump/images.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/images.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/images.png124"CpResource Doodle\ Jump/images.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/images.pngd55e74b95fd2b941^916175b95fd2b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/images.png0038a0f9ddffdf42^663"CpResource Doodle\ Jump/images.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/images.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/images.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"A5AACE79-50A7-45F0-AF0D-CF0E47862C78-
+bAE1AE523-8DCD-41CA-80F3-66580F0E94F8
+
+CCpResource Doodle\ Jump/jetleft.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetleft.png
+s434866318.041122
+e434866318.044842
+r1
+xCpResource
+xDoodle Jump/jetleft.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetleft.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetleft.png126"CpResource Doodle\ Jump/jetleft.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetleft.png8a940a8e88ebb941^077b0b8e88ebb941^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/jetleft.png0038a0f9ddffdf42^666"CpResource Doodle\ Jump/jetleft.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetleft.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/jetleft.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"72FA8F3A-7B2F-48B2-A5B4-2727D2D6845B-
+bEE3AFAC9-48D8-4B7C-951C-7CAF78DBA47A
+
+CCpResource Doodle\ Jump/jetpack.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.png
+s434866318.040358
+e434866318.043871
+r1
+xCpResource
+xDoodle Jump/jetpack.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.png126"CpResource Doodle\ Jump/jetpack.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.png7f680a8e88ebb941^973b0b8e88ebb941^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/jetpack.png0038a0f9ddffdf42^666"CpResource Doodle\ Jump/jetpack.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/jetpack.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"84997F43-3481-47DA-BB8E-DB6969D8F907-
+bEE3AFAC9-48D8-4B7C-951C-7CAF78DBA47A
+
+CCpResource Doodle\ Jump/jetpack.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.wav
+s435348555.578702
+e435348555.582862
+r1
+xCpResource
+xDoodle Jump/jetpack.wav
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.wav
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetpack.wav126"CpResource Doodle\ Jump/jetpack.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.wav3f37944be4f2b941^4c37954be4f2b941^---0#0#1#-19%DVTDocumentLocation2@154"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/jetpack.wav0038a0f9ddffdf42^681"CpResource Doodle\ Jump/jetpack.wav DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetpack.wav    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/jetpack.wav /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"D5078D56-849B-45B4-B37A-6B6800539BB2-
+bF600E864-3994-44A1-8CB0-9B8EC3CE0C6B
+
+CCpResource Doodle\ Jump/jetright.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetright.png
+s434866318.037499
+e434866318.040877
+r1
+xCpResource
+xDoodle Jump/jetright.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetright.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/jetright.png128"CpResource Doodle\ Jump/jetright.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetright.png72c5098e88ebb941^427a0a8e88ebb941^---0#0#1#-19%DVTDocumentLocation2@150"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/jetright.png0038a0f9ddffdf42^669"CpResource Doodle\ Jump/jetright.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/jetright.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/jetright.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"521520B3-4D5E-4B14-BBD9-54D90CC3FEF4-
+bEE3AFAC9-48D8-4B7C-951C-7CAF78DBA47A
+
+CCpResource Doodle\ Jump/left.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/left.png
+s435267301.614289
+e435267301.619008
+r1
+xCpResource
+xDoodle Jump/left.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/left.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/left.png120"CpResource Doodle\ Jump/left.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/left.pngb8779de5a6f1b941^8c849ee5a6f1b941^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/left.png0000000000000000^657"CpResource Doodle\ Jump/left.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/left.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/left.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"0C8AC99D-3EAD-4152-8D0E-BBDBE931D4D1-
+b32D17FBD-BDE9-4EF8-830F-0F124C76CF67
+
+CCpResource Doodle\ Jump/metal-spring-15234681.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/metal-spring-15234681.jpg
+s433389270.650689
+e433389270.653829
+r1
+xCpResource
+xDoodle Jump/metal-spring-15234681.jpg
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/metal-spring-15234681.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/metal-spring-15234681.jpg154"CpResource Doodle\ Jump/metal-spring-15234681.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/metal-spring-15234681.jpg24b7a6d6fed4b941^1b63a7d6fed4b941^---0#0#1#-19%DVTDocumentLocation2@163"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/metal-spring-15234681.jpg0038a0f9ddffdf42^708"CpResource Doodle\ Jump/metal-spring-15234681.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/metal-spring-15234681.jpg    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/metal-spring-15234681.jpg /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"38FF0F84-1C6A-4171-8379-55BA40FB1708-
+b974F276B-28F7-41F5-8F4B-512041E027CA
+
+CCpResource Doodle\ Jump/right.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/right.png
+s435267301.615704
+e435267301.621238
+r1
+xCpResource
+xDoodle Jump/right.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/right.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/right.png122"CpResource Doodle\ Jump/right.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/right.pnge6b29de5a6f1b941^0b0a9fe5a6f1b941^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/right.png0000000000000000^660"CpResource Doodle\ Jump/right.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/right.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/right.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"47DADE66-AD74-4432-86F5-733F1CF8A689-
+b32D17FBD-BDE9-4EF8-830F-0F124C76CF67
+
+CCpResource Doodle\ Jump/snowy-background.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/snowy-background.jpg
+s433215614.547592
+e433215614.553445
+r1
+xCpResource
+xDoodle Jump/snowy-background.jpg
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/snowy-background.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/snowy-background.jpg144"CpResource Doodle\ Jump/snowy-background.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/snowy-background.jpg04a98c7e58d2b941^d6c9917e58d2b941^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/snowy-background.jpg0038a0f9ddffdf42^693"CpResource Doodle\ Jump/snowy-background.jpg DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/snowy-background.jpg    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/snowy-background.jpg /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"D46D1CD8-DE6C-46EF-BCFA-5A65DB627FFF-
+bC2DDC731-19BD-4A3F-8E38-ED900830FD67
+
+CCpResource Doodle\ Jump/spring.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring.png
+s435268417.802019
+e435268417.804620
+r1
+xCpResource
+xDoodle Jump/spring.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring.png124"CpResource Doodle\ Jump/spring.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring.png4a62cd41abf1b941^3946ce41abf1b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/spring.png0000000000000000^663"CpResource Doodle\ Jump/spring.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/spring.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"4941C834-98E1-4897-8D6F-864E5F19D0C2-
+b18CF05F5-5B22-4041-ABD3-4A423B8C18C5
+
+CCpResource Doodle\ Jump/spring2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring2.png
+s435269138.477595
+e435269138.480162
+r1
+xCpResource
+xDoodle Jump/spring2.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring2.png126"CpResource Doodle\ Jump/spring2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring2.png4a5d7a12aef1b941^0fee7a12aef1b941^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/spring2.png0000000000000000^666"CpResource Doodle\ Jump/spring2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring2.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/spring2.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"0BC1F6F9-7748-455D-975A-15C5C0306E15-
+b656BF73B-DD58-4829-820B-7F550C20922F
+
+CCpResource Doodle\ Jump/spring3.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring3.png
+s435269138.475762
+e435269138.478620
+r1
+xCpResource
+xDoodle Jump/spring3.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring3.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/spring3.png126"CpResource Doodle\ Jump/spring3.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring3.png68e67912aef1b941^df887a12aef1b941^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/spring3.png0000000000000000^666"CpResource Doodle\ Jump/spring3.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/spring3.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/spring3.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"FFE37C49-898B-4DBB-A125-6428A1177A5D-
+b656BF73B-DD58-4829-820B-7F550C20922F
+
+CCpResource Doodle\ Jump/squish.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish.png
+s435267301.614270
+e435267301.619622
+r1
+xCpResource
+xDoodle Jump/squish.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish.png124"CpResource Doodle\ Jump/squish.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish.png64779de5a6f1b941^88a09ee5a6f1b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/squish.png0000000000000000^663"CpResource Doodle\ Jump/squish.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/squish.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"E2E9F7E1-FD98-4389-9B20-16D78367BD4D-
+b32D17FBD-BDE9-4EF8-830F-0F124C76CF67
+
+CCpResource Doodle\ Jump/squish2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish2.png
+s435267301.615418
+e435267301.620013
+r1
+xCpResource
+xDoodle Jump/squish2.png
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/squish2.png126"CpResource Doodle\ Jump/squish2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish2.png4d9f9de5a6f1b941^49ba9ee5a6f1b941^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/squish2.png0000000000000000^666"CpResource Doodle\ Jump/squish2.png DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/squish2.png    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/squish2.png /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"6A5F9BDC-5080-481F-81D0-20B0F93C3218-
+b32D17FBD-BDE9-4EF8-830F-0F124C76CF67
+
+CCpResource Game DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Game
+s432847292.212138
+e432847292.217199
+r1
+xCpResource
+xGame
+xDerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Game
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Game99"CpResource Game DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Game417e36bcb9ccb941^459b37bcb9ccb941^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app/Game0038a0f9ddffdf42^619"CpResource Game DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Game    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JasonMillen/Desktop/Doodle\ Jump/Game /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"0C6A1924-F27E-40AF-A405-1A8B96C6BB17-
+b7F7C01F7-766D-456F-8772-47F578826693
+
+CGenerateDSYMFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump
+s435424660.523211
+e435424660.584551
+r1
+xGenerateDSYMFile
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM192"GenerateDSYMFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jumpa60e86940df4b941^65a595940df4b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app.dSYM/0000000000000000^810"GenerateDSYMFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM36"F8033619-097A-422B-946A-B0A071FA1ABF-
+b007876C5-9702-4612-A6B4-B1AB813AF521
+
+CGenerateDSYMFile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump
+s435271855.354912
+e435271855.384352
+r1
+xGenerateDSYMFile
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generate /Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app.dSYM192"GenerateDSYMFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump07f05aafb8f1b941^b16c62afb8f1b941^---0#0#1#-19%DVTDocumentLocation2@143"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/DerivedData/Doodle%20Jump/Build/Products/Debug-iphonesimulator/Doodle%20Jump.app.dSYM/0000000000000000^795"GenerateDSYMFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app.dSYM36"05298741-22AE-450E-984F-9EC7D52CCACC-
+bE0DE531A-7AD2-4EBE-9D47-D8D1B738A90D
+
+CLd /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i386
+s435424660.285008
+e435424660.490332
+r1
+xLd
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+xnormal
+xi386
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Doodle Jump.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump106"Ld DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i3863b1c49940df4b941^90887d940df4b941^---0#0#1#--1650"Ld DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i386    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -filelist /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Doodle\ Jump.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework AudioToolbox -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Doodle\ Jump_dependency_info.dat -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump36"1992D256-D9A7-4AC5-B506-897159930CF6-
+b007876C5-9702-4612-A6B4-B1AB813AF521
+
+CLd /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i386
+s435271855.289894
+e435271855.338131
+r1
+xLd
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump
+xnormal
+xi386
+d/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Doodle Jump.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/ViewController.o
+d/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/AppDelegate.o
+d/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/main.o
+d/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/Doodle Jump.build/Debug-iphonesimulator/Doodle Jump.build/Objects-normal/i386/Game.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Doodle Jump106"Ld DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i38626564aafb8f1b941^109156afb8f1b941^---0#0#1#--1620"Ld DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump normal i386    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator -filelist /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Doodle\ Jump.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework AudioToolbox -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Objects-normal/i386/Doodle\ Jump_dependency_info.dat -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Doodle\ Jump36"A34D2ADE-42F9-4E7D-8DDD-B92564C1D40E-
+bE0DE531A-7AD2-4EBE-9D47-D8D1B738A90D
+
+CProcessInfoPlistFile /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Info.plist
+s432354818.856091
+e432354818.860171
+r1
+xProcessInfoPlistFile
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app/Info.plist
+x/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Doodle Jump-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Doodle Jump-Info.plist147"ProcessInfoPlistFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist Doodle\ Jump/Doodle\ Jump-Info.plistec4edb0236c5b941^f035dc0236c5b941^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/Doodle%20Jump-Info.plist0000000000000000^1033"ProcessInfoPlistFile DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist Doodle\ Jump/Doodle\ Jump-Info.plist    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Info.plist -genpkginfo /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/assetcatalog_generated_info.plist -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app/Info.plist36"A10BF9F8-2C2C-4378-A45C-EA648996D46C-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CProcessPCH /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435344745.744814
+e435344747.319375
+r1
+xProcessPCH
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/PrecompiledHeaders/Doodle Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle Jump-Prefix.pch.pch
+xDoodle Jump/Doodle Jump-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Apps/Doodle Jump/Doodle Jump/Doodle Jump-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Doodle Jump/Doodle Jump-Prefix.pch256"ProcessPCH DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfce2be69d5f2b941^0dc5516bd5f2b941^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/JasonMillen/Desktop/Apps/Doodle%20Jump/Doodle%20Jump/Doodle%20Jump-Prefix.pch0000000000000000^4039"ProcessPCH DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.dia -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.d -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Prefix.pch -o /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-euodriwrpwrhefatlxtezcrvcpsx/Doodle\ Jump-Prefix.pch.pch36"CAF085E3-F210-4348-AAAE-6CBF6E556500-
+b7B9D36A4-DFA4-476D-B6EA-EE315B6FFE65
+
+CProcessPCH /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Index/PrecompiledHeaders/Doodle\ Jump-Prefix-bapgkhjsvedshpcklnzabywomoer_ast/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432354815.057135
+e432354816.237207
+r1
+xProcessPCH
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Intermediates/PrecompiledHeaders/Doodle Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle Jump-Prefix.pch.pch
+xDoodle Jump/Doodle Jump-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Doodle Jump/Doodle Jump/Doodle Jump-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Doodle Jump/Doodle Jump-Prefix.pch256"ProcessPCH DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbdc20eff35c5b941^17bc3c0036c5b941^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/JasonMillen/Desktop/Doodle%20Jump/Doodle%20Jump/Doodle%20Jump-Prefix.pch0000000000000000^3969"ProcessPCH DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-generated-files.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/Doodle\ Jump-project-headers.hmap -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/Doodle\ Jump.build/Debug-iphonesimulator/Doodle\ Jump.build/DerivedSources -F/Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.dia -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.d -c /Users/JasonMillen/Desktop/Doodle\ Jump/Doodle\ Jump/Doodle\ Jump-Prefix.pch -o /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Intermediates/PrecompiledHeaders/Doodle\ Jump-Prefix-acskcltozjduvkhcvcwlejhrecxg/Doodle\ Jump-Prefix.pch.pch36"DB0C0BAB-2731-486B-98FD-BA1CEE651231-
+bDD68BD05-5431-408A-8DC7-01C5A5B6F4CD
+
+CProcessPCH /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Index/PrecompiledHeaders/Doodle\ Jump-Prefix-ddttniycilvxfhflukwtmnuncsmd_ast/Doodle\ Jump-Prefix.pch.pch Doodle\ Jump/Doodle\ Jump-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app
+s435386885.092204
+e435386885.101723
+r1
+xTouch
+x/Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/JasonMillen/Desktop/Apps/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app84"Touch DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app4eb417057af3b941^070c1a057af3b941^---0#0#1#--479"Touch DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app    cd "/Users/JasonMillen/Desktop/Apps/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/JasonMillen/Desktop/Apps/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"B2FFBB58-CC29-43E4-B21D-704B75C94001-
+b297D73CF-C4FA-4426-AC31-D8064E706BE2
+
+CTouch /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app
+s435271763.181046
+e435271763.190352
+r1
+xTouch
+x/Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/JasonMillen/Desktop/Doodle Jump/DerivedData/Doodle Jump/Build/Products/Debug-iphonesimulator/Doodle Jump.app84"Touch DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app70772e53b8f1b941^06bc3053b8f1b941^---0#0#1#--469"Touch DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app    cd "/Users/JasonMillen/Desktop/Doodle Jump"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/JasonMillen/Desktop/Doodle\ Jump/DerivedData/Doodle\ Jump/Build/Products/Debug-iphonesimulator/Doodle\ Jump.app36"00B6DAFC-9739-42E6-A516-DCA808EE418C-
+bC3FCAB93-A0EA-4337-BA5A-975A98289A93
+
